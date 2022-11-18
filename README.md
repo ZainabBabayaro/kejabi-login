@@ -1,1 +1,2 @@
-# kejabi-login
+A responsive Kejabi login design implementation
+
